@@ -12,4 +12,8 @@ public class CalculationLogic {
         System.out.println("The sum is: " + result);
     }
 
+    public void callMethod(){
+        calcuateDivision(10, 0);
+    }
+
 }
